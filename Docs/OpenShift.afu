@@ -1,0 +1,82 @@
+OPEN SHIFT:
+
+
+REFERENCE:
+https://docs.okd.io/latest/welcome/index.html
+
+TRIAL:
+https://www.openshift.com/trial/
+
+INTRODUCTION:
+
+- Why? What it does?
+- Underlying technologies (Docker, Kubernetes, OS, virtualization)
+- OS versions
+	OSC (Openshift Container Platform) -> Installer. Deployed on premises
+	OKD (Openshift Community Driven)
+	OS Origin
+	OS Online (SAAS)
+	OSA Dedicated (On line Cluster dedicated for Enterprise)
+
+- architecture
+	- core components
+	- docker
+	- kubernetes
+
+- installation
+	- OS on line 
+	- OS on cloud providers
+	- Code Ready Containers
+	
+	- MiniShift
+
+ARCHITECTURE AND CORE COMPONENTS:
+
+	Containers
+	POD
+	Replication Controllers
+	Services
+	Routes
+	Build Configuration
+	Docker Registry
+	Image Stream
+	Deployment Configuration
+	Persistent Volumes	
+	Cluster
+	Master Node 
+	Worker Node
+
+CLIENT TOOLS:
+
+	OS
+	WebConsole
+	Rest Api
+
+PROJECT MANAGEMENT:
+
+	Users and accounts
+	Projects
+	Applications
+
+BUILDS:
+	Docker
+	S2I
+	custom
+	pipeline
+	
+NETWORKING:
+	
+	Services
+	Routes
+	Scaling
+
+STORAGE:
+
+OPERATORS:
+
+TEMPLATES AND CATALOG:
+
+	https://www.youtube.com/watch?v=IO_uap5wfUU&list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif&index=4
+CLUSTER ADMINISTRATION:
+
+	

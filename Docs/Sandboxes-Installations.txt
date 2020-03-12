@@ -1,0 +1,6 @@
+
+
+OS on line:
+https://manage.openshift.com/accounts/auth/keycloak
+https://manage.openshift.com/register/confirm
+

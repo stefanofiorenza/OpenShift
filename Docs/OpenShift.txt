@@ -1,0 +1,103 @@
+
+
+INTRODUCTION:
+
+	WHAT IS OS?
+	https://www.youtube.com/watch?v=KTN_QBuDplo&list=RDCMUCKWaEZ-_VweaEx1j62do_vQ&start_radio=1
+	https://www.youtube.com/watch?v=KTN_QBuDplo
+
+	Introduction on Core components
+	https://www.youtube.com/watch?v=qaIROwHUm54
+
+	Intro to version of OS
+	https://www.youtube.com/watch?v=KTN_QBuDplo
+
+PROJECT MANAGEMENT:
+
+
+
+
+	Creating OpenShitt 3 Account
+	https://www.youtube.com/watch?v=IwIb_c8scW4&list=PL8OEANsPiV9xdaaAVC58CKLmlTvhmz76I
+
+
+
+
+INSTALLATIONS:
+
+	Installation on different platforms
+	https://blog.openshift.com/using-openshift-3-on-your-local-environment/
+
+	OS ON LINE ON WIN10
+	https://www.youtube.com/watch?v=gnJ7UoqWmLk
+
+	OS ON AWS
+	https://www.youtube.com/watch?v=h0b46hUkaNQ
+	https://www.youtube.com/watch?v=AZvIOmnvNtA&list=RDCMUCZKMj3YI0wP-kq4QYpaKdEA&start_radio=1
+	
+	Minishift on Win10 (doc)
+	https://blog.exxeta.com/en/2018/07/14/setup-openshift-on-windows/
+	https://docs.okd.io/latest/minishift/getting-started/installing.html
+	
+	Dedicated OS
+	https://www.youtube.com/watch?v=tdta9iF21Fc&list=PLaR6Rq6Z4IqeGIzsnWX1ifTLwJaYBQSUs&index=9&t=0s
+	
+	OS COde Ready
+	https://www.youtube.com/watch?v=yp8LXEKlGSQ
+	
+	YAML:
+	https://www.youtube.com/watch?v=o9pT9cWzbnI&list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif&index=10
+	
+	OS vs Kubernetes
+	https://www.youtube.com/watch?v=cTPFwXsM2po
+	
+COURSE PLAYLIST:
+https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqficb-XqeydZD_ZTD3XEwBp
+
+	
+DEMO APPLICATION:
+
+https://www.youtube.com/watch?v=IO_uap5wfUU&list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif&index=4
+	
+IDE:
+
+	CDK AND JBD STUDIO	(PLAYLIST)
+	https://www.youtube.com/playlist?list=PLaR6Rq6Z4Iqfh7xFotBRCx_ve3GqTpj5b
+
+
+
+OS and business
+
+	Logistics
+	https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqfjVaEkoh5R-xRaDrWZ_J0T
+
+
+
+	Container Storage:
+	https://www.youtube.com/watch?v=mgR0BspLr1w
+
+
+JAVA AND OS:
+
+	Java Open Shift
+	https://www.youtube.com/watch?v=IwIb_c8scW4&list=PL8OEANsPiV9xdaaAVC58CKLmlTvhmz76I
+
+	Spring Boot (from sources) on OpenShift 3 with Jar packaging. Sources installation
+	https://www.youtube.com/watch?v=hzSuFpLvGpQ
+
+	Java e Openshift
+	https://dzone.com/articles/a-quick-guide-to-deploying-java-apps-on-openshift
+
+
+OS and microservices
+https://www.youtube.com/watch?v=QU4waVAj9uk
+
+
+Microservices
+https://www.youtube.com/watch?v=1xo-0gCVhTU&t=305s
+
+
+
+
+
+
